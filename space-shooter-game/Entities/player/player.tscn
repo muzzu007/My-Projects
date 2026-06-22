@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://cp374h8dax5f7"]
+
+[ext_resource type="Texture2D" uid="uid://4wy4tsfnex3k" path="res://assests/ship_yellow_stroked.png" id="1_4flbx"]
+[ext_resource type="Script" uid="uid://njntfnidwl2" path="res://Entities/player/player.gd" id="1_m0gmf"]
+
+[node name="Player" type="Node2D" unique_id=1843949682]
+script = ExtResource("1_m0gmf")
+
+[node name="ShipSprite" type="Sprite2D" parent="." unique_id=1033413568]
+position = Vector2(1.5258789e-05, 0)
+scale = Vector2(0.4, 0.4)
+texture = ExtResource("1_4flbx")
