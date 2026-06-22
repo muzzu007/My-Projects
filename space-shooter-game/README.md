@@ -8,7 +8,7 @@ A classic arcade space shooter game built with \*\*Godot Engine\*\*. Features sm
 
 \## 📸 Screenshots
 
-!\[Gameplay Preview](screenshots/gameplay.png)
+!\[Gameplay Preview](screenshot/gameplay.png)
 
 
 
