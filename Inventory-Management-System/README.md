@@ -56,15 +56,15 @@
 
 
 
-LOGO\_FILENAME = "assets/company\_logo.png"   # Replace with your logo file
+LOGO_FILENAME = "assets/company_logo.png"   # Replace with your logo file
 
-COMPANY\_INFO = {
+COMPANY_INFO = {
 
 &#x20;   "name": "ADD COMPANY LOGO",
 
-&#x20;   "address\_line1": "ADD ADDRESS",
+&#x20;   "address_line1": "ADD ADDRESS",
 
-&#x20;   "address\_line2": "ADD ADDRESS-2",
+&#x20;   "address_line2": "ADD ADDRESS-2",
 
 &#x20;   "phone": "Phone: PHONE NUMBER"
 
@@ -136,17 +136,17 @@ COMPANY\_INFO = {
 
 <pre>
 
-├── Inventory\_Store\_Manager.py      # Core Desktop Python Application Framework
+├── Inventory_Store_Manager.py      # Core Desktop Python Application Framework
 
 ├── requirements.txt               # Documented Module \& Package Dependency Blueprint
 
-├── inventory\_store\_database.db    # Dynamic SQLite Relational Store Engine (Auto-Generated)
+├── inventory_store_database.db    # Dynamic SQLite Relational Store Engine (Auto-Generated)
 
 ├── assets/
 
-│   └── company\_logo.png           # Destination Vector for Your Branding Assets
+│   └── company_logo.png           # Destination Vector for Your Branding Assets
 
-└── invoices\_pdf/                  # Destination for Printed Invoice Documents
+└── invoices_pdf/                  # Destination for Printed Invoice Documents
 
 </pre>
 
