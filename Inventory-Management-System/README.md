@@ -1,6 +1,6 @@
 <div align="center">
 
-&#x20; <h1>🏪 Standalone Offline Inventory \& Store Billing System</h1>
+&#x20; <h1>🏪 Standalone Offline Inventory & Store Billing System</h1>
 
 &#x20; <p><b>A clean, high-performance offline desktop point of sale application, database manager, and automated PDF invoice engine.</b></p>
 
@@ -12,13 +12,13 @@
 
 
 
-<h3>📋 Project Overview \& Features</h3>
+<h3>📋 Project Overview & Features</h3>
 
 <p>This desktop software provides an efficient, completely localized infrastructure to streamline product lifecycle tracking, stock control parameters, and customer invoicing workflows. Engineered for maximum reliability, it functions 100% offline with zero external cloud or network dependencies.</p><br>
 
-<img src="screenshots\\preview1.png" alt="Company Logo" width="180" onerror="this.src='https://placehold.co/180x180?text=preview'">
+<img src="screenshots\preview1.png" alt="Preview Logo" width="360" onerror="this.src='https://placehold.co/180x180?text=preview'">
 
-<img src="screenshots\\\\preview2.png" alt="Company Logo" width="180" onerror="this.src='https://placehold.co/180x180?text=preview'">
+<img src="screenshots\preview2.png" alt="Preview Logo" width="360" onerror="this.src='https://placehold.co/180x180?text=preview'">
 
 <br>
 
@@ -84,7 +84,7 @@ COMPANY\_INFO = {
 
 
 
-<h3>🚀 Installation \& Setup</h3>
+<h3>🚀 Installation & Setup</h3>
 
 <p>Follow these quick steps to set up your environment libraries and launch the system:</p>
 
@@ -110,7 +110,7 @@ COMPANY\_INFO = {
 
 <p>Launch the main environment file using Python. The local relational files will safely initialize automatically on your machine during the first boot:</p>
 
-<pre><code>python Inventory\_Store\_Manager.py</code></pre>
+<pre><code>python Inventory_Store_Manager.py</code></pre>
 
 
 
